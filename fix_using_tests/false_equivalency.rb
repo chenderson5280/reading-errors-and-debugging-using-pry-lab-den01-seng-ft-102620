@@ -15,7 +15,7 @@ def selection(get_user_input)
      "HAM HAM HAM IN MY TUMMY"
 
   elsif get_user_input = 2
-     "YUM YUM MUNCH MUNCH MUNCH"
+     return "YUM YUM MUNCH MUNCH MUNCH"
   end
 end
 
