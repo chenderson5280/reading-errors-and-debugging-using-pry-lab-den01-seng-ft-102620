@@ -2,7 +2,6 @@
 
 def get_user_input
   gets.num
-  num = 2
 end
 
 def prompt_user
